@@ -1,0 +1,18 @@
+body {
+    background-color: green;
+}
+h1 {
+    color: rgb(159, 46, 99);
+}
+h2 {
+    color: rgb(78, 40, 148);
+}
+#principal {
+    
+}
+/* qualquer coisa pode receber o id principal */
+/* em html é id e em css é # */
+/* em html é class e em css é . */
+/* nao precisa ser a palavra "principal"
+coloca-se dentro da tag - id=principal e aqui no css fica uma # */
+/* id é unico e class é varios */
